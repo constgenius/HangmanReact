@@ -2,7 +2,7 @@
 
 The Hangman Game with React and TypeScript is an engaging and educational project that combines the power of the React library with the type safety of TypeScript to recreate the classic word-guessing game. This interactive web application challenges players to guess a hidden word letter by letter, with each incorrect guess contributing to the drawing of a hangman.
 
-
+![Hangman Game WIth React](public/HangmanGame.png)
 
 Developers undertaking this project can expect to enhance their React skills by implementing dynamic user interfaces that respond to player input. The inclusion of TypeScript brings static typing to the game, enabling developers to catch potential errors during development and improve code quality.
 
